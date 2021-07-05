@@ -1,0 +1,6 @@
+ape	apple
+ball	bill	bull
+foot
+parrot	peeble
+season
+zebras	zoo
